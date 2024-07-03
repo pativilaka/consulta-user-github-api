@@ -8,7 +8,7 @@ O projeto utiliza a nova funcionalidade de `record` introduzida no Java 16 para 
 
 
 
-![](C:\projetos-versionados\consumo-api\github-user-api\img\record.png)
+![](https://github.com/pativilaka/consulta-user-github-api/blob/main/img/record.png)
 
 
 
